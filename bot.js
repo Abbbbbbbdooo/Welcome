@@ -8,4 +8,4 @@ if(mohamed) {
 setTimeout(() => mohamed.send(`**Welcome To Server Magic**`), 4000)        
 }
 });
-bot.login("NDk4Mzk3OTUyNjE2NjkzNzcy.DtBGrg.ZBl-rtlfhh8C_MWbWXsXiQ_lyoM")
+bot.login("NDgyMjQxMDcyNzY0OTQ0Mzk0.DtG5dA.6cVSQXruxyngseE5aTAgFoJam-Q")
