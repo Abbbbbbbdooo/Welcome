@@ -3,7 +3,7 @@ const client = new Discord.Client();
 
 
 
-const Discord = require('discord.js'),
+   const Discord = require('discord.js'),
     bot = new Discord.Client({sisableEveryone: true})
     console.log("muuuuuuuuute,");
 bot.on('guildMemberAdd', member => {
