@@ -7,7 +7,7 @@ bot.on('guildMemberAdd', member => {
 const mohamed= member.guild.channels.get("523411510991519744");
 if(!mohamed) return;
 if(mohamed) {
-setTimeout(() => mohamed.send(`Welcome To Server **DetermindGuild**`), 4000)        
+setTimeout(() => mohamed.send(`Welcome To Server **Magic**`), 4000)        
 }
 });
 
